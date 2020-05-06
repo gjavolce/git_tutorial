@@ -1,4 +1,2 @@
-# git_tutorial
-# filip
-boki
-zlate
+#zadaci c++
+ovoj repository sodrzi zadaci c++

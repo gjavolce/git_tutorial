@@ -1,5 +1,0 @@
-bojan 3
-filip 4
-test 1
-test 2
-test 4
